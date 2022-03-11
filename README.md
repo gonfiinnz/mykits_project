@@ -1,2 +1,2 @@
-# mykits_project
-This is my first demo website
+# Mykits_online
+Mykits online shop website
